@@ -1,0 +1,50 @@
+.popup {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border: 1px solid black;
+  padding: 20px;
+  visibility: hidden;
+}
+
+.btn {
+  position: relative;
+  margin: auto;
+  left: 300px;
+  top: 200px;
+  width: 10px;
+  height: 10px;
+  border: 1px solid black;
+  background-color: red;
+}
+
+.close {
+  width: 50px;
+  height: 20px;
+  border: 1px solid black;
+  background-color: red;
+}
+
+hr {
+  position: relative;
+  margin: auto;
+  top: 400px;
+  margin-left: 200px;
+}
+
+html {
+  height: 100%;
+}
+
+.v {
+  position: relative;
+  margin: auto;
+  border-left: 1px solid black;
+  height: 200px;
+  top: 300px;
+  left: 200px;
+  margin-right: 100px;
+  padding: 0px;
+}
